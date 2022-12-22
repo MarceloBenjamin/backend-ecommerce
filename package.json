@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-jwt": "^5.3.3",
     "faker": "^4.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.26.0",
     "mongoose": "^5.9.18",
     "mongoose-paginate": "^5.0.3",
